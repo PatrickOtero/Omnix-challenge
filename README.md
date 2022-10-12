@@ -7,7 +7,7 @@ Desafio técnico da empresa Omnix.
 
 ### - Fiquem à vontade para ver o código e sugerir correções, melhorias ou dar conselhos sobre qualquer coisa. Todo aprendizado é bem vindo.
 
-### Link para testar online:
+### Link para testar online: https://omnix-challenge-patrick-otero.netlify.app/
 
 ### Assim que entrar no site, o campo para inserir o CEP aparecerá. Apenas insira um CEP válido.
 
