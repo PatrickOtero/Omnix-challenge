@@ -37,8 +37,8 @@ export const Home = () => {
         <HomeContainer>
             <h1>Bem-vindo!</h1>
             <b className="home-info info1">Por favor</b>
-            <b className="home-info info2">Insira seu cpf no respectivo campo</b>
-            <b className="home-info info3">Para que possamos</b>
+            <b className="home-info info2">insira seu CEP no respectivo campo</b>
+            <b className="home-info info3">para que possamos</b>
             <b className="home-info info4">trazer planos personalizados</b>
             <b className="home-info info5">de internet para você!</b>
             <FormContainer>
