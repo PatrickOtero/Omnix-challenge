@@ -1,8 +1,6 @@
 # Omnix-challenge
 Desafio técnico da empresa Omnix.
 
-# Blox frontend challenge
-
 ### Este projeto foi criado através do "create-react-app" com template typescript e com a flag --use-npm para que o mesmo desse preferência ao npm e não ao yarn como ocorre por padrão.
 
 ## Progresso do projeto: Projeto terminado dentro do prazo.
