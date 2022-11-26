@@ -1,9 +1,7 @@
 # Omnix-challenge
-Desafio técnico da empresa Omnix.
+## Desafio técnico da empresa Omnix.
 
-### Este projeto foi criado através do "create-react-app" com template typescript e com a flag --use-npm para que o mesmo desse preferência ao npm e não ao yarn como ocorre por padrão.
-
-## Progresso do projeto: Projeto terminado dentro do prazo.
+### Progresso do projeto: Projeto terminado dentro do prazo.
 
 ### - Fiquem à vontade para ver o código e sugerir correções, melhorias ou dar conselhos sobre qualquer coisa. Todo aprendizado é bem vindo.
 
