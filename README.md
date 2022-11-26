@@ -18,8 +18,6 @@ Desafio técnico da empresa Omnix.
          - execute o comando: npm i (para instalar as dependências)
          - Após a instalação, execute o comando: npm run start (para rodar a aplicação no seu localhost:3000);
 
-# Obrigado Omnix pela oportunidade que me deu.
-
 ## Tecnologias que foram exigidas no projeto:
 
         - HTML (obrigatório)
@@ -38,3 +36,11 @@ Desafio técnico da empresa Omnix.
         - React-use
         - Axios
         - Context-api
+
+## Tela home
+<img src="./mdAssets/omnixHome.jpg">
+
+## Tela de planos
+<img src="./mdAssets/omnixPlans.jpg">
+
+# Obrigado Omnix pela oportunidade que me deu.
